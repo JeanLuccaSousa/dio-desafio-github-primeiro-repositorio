@@ -1,0 +1,4 @@
+
+- Primeiros códigos com Git;
+- Primeiro versionamento usando o Git;
+- Iniciando e executando um projeto no GitHub
